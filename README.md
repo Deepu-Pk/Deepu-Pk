@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Deepu-Pk
-- 👀 I’m interested in Machine Learning,Deeplearning, Time series analaysis 
-- 🌱 I’m currently learning  Time series anlysis
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/deepu-pk-85028018a/
 
 <!---
