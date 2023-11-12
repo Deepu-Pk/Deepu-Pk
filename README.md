@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepu Pk</h1>
 <h3 align="center">A passionate Computer Vision from India</h3>
 
-- 💬 Ask me about **Computer Vision,Deeplearning**
+- 💬 Ask me about **Computer Vision,Deeplearning,Data Structure and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
