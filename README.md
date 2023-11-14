@@ -1,39 +1,85 @@
-<h1 align="center">Hi 👋, I'm Deepu Pk</h1>
-<h3 align="center">I am computer vision and Deeplearning Engineer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepu-Pk&label=Profile%20views&color=0e75b6&style=flat" alt="Deepu-Pk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deepu-Pk&theme=" alt="Deepu-Pk" /></a> </p>
 
-- 💬 Ask me about **Computer vision, Deeplearning **
+⚡ Github Profile Readme Generator
 
-- ⚡ Fun fact **I use tab over the space**
+0
+This app generates a Github profile readme file. To learn how to add a readme file to your Github profile, check out this. You can customize it and use it in your Github profile.
 
-<div> <a href="https://github.com/Deepu-Pk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/deepu_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="deepu_pk" height="30" width="40" /></a></p>
+First, fill out the forms below.
+Then, go to Code tab to copy the code and paste it in your README.md file.
+You can also change the theme of the readme file by selecting a theme from the dropdown below. Themes are added by the community. If you want to add a theme, check out the Github repo.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+Personalize your Readme
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-Pk&layout=compact&theme=dark" alt=Deepu-Pk />
+👤 Profile Info
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Deepu-Pk">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepu-Pk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepu-Pk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepu-Pk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-Pk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-Pk&theme=2077" height="180em" />
+
+🌐 Social Accounts
+
+
+📝 Description
+
+
+💻 Skills
+
+
+⚙️ Tech Stack
+
+
+➕ Extensions
+
+Name
+
+Deepu Pk
+Email
+
+README.md Preview
+Select a theme from the dropdown below.
+Go to Code tab to copy the code and paste it in your README.md file.
+Github extensions will not work in the preview. You can only see them in the code and in your Github profile.
+Theme:
+
+default
+
+Preview
+
+
+Code
+
+Copy the code below and paste it in your README.md file
+
+
+# Deepu Pk
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
+- 💻 Software Engineer by profession
+- The person who who change coffee  to code
+-  My favourite book :  Atomic Habits
+
+### 🖥 Skills
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Data structure and Algorithm
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Opencv-05122A?style=flat-square&logo=Opencv&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=Tensorflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pytorch-05122A?style=flat-square&logo=Pytorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=Bash&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cmake-05122A?style=flat-square&logo=Cmake&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
 </div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+Made with Streamlit
