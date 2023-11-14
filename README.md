@@ -6,7 +6,7 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
 
 - 💻 Software Engineer by profession
 - The person who who change coffee  to code
@@ -23,10 +23,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Opencv-05122A?style=flat-square&logo=Opencv&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=Tensorflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pytorch-05122A?style=flat-square&logo=Pytorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=Bash&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cmake-05122A?style=flat-square&logo=Cmake&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
 
 
 ---
