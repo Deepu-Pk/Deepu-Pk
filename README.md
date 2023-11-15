@@ -7,9 +7,10 @@
 
 
 
-- 💻 Software Engineer by profession
-- The person who who change coffee  to code
--  My favourite book :  Atomic Habits
+- 💻 Software Engineer[Computer Vision]
+- The person who will change coffee into a code
+- My favourite book :  Atomic Habits
+- Talk about AI
 
 ### 🖥 Skills
 
