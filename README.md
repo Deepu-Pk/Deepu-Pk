@@ -10,7 +10,7 @@
 - 💻 Computer Vision Engineer
 - The person who will change coffee into a code
 - My favourite book :  Atomic Habits
-- Talk about AI
+- Talk about Computer vision and Software Engineering
 
 ### 🖥 Skills
 
