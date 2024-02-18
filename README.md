@@ -19,6 +19,10 @@
 - Computer Vision
 - Image Processing
 - Data structure and Algorithm
+- System Design
+- Embbeded Systems
+- Operating System
+- Computer Architecture
 
 ### ⚙️ Tech Stack
 
